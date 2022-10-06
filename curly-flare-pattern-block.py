@@ -87,7 +87,38 @@ print(bottom)
 d.append(draw.Lines( *points[:2],0,0, 0, bottom, *points[-2:], stroke="black"))
 
 
+def drawScale(sx, sy, ex, ey, interval): 
+    stuff = draw.Group()
 
+
+    # draw the ruler
+    ruler = draw.Line(sx, sy, ex, ey)
+    stuff.append(ruler)
+
+    rulerLength = math.sqrt(pow(sx-ex, 2) + pow(sy-ey, 2))
+    print("rulerLength", rulerLength)
+    unit = [(ex-sx)/rulerLength , (ey-sy)/rulerLength ]
+    perp = [unit[1], -unit[0]]
+
+    # draw the markings
+    z = 0
+    x = sx
+    y = sy
+    while z < rulerLength:
+        x1 = x + perp[0] * 3
+        y1 = y + perp[1] * 3
+        stuff.append(draw.Line(x,y, x1, y1))
+        stuff.append(draw.Text("{:.0f}mm".format(z), 5, x + perp[0]*5, y + perp[1]*5, stroke="none", fill="black"))
+
+        print (x, y)
+        z += interval
+        x += unit[0] * interval
+        y += unit[1] * interval
+    return stuff
+
+    
+
+d.append(drawScale(200, 0, 200, 300, interval=100))
 
 d.saveSvg('pattern piece (one fifth).svg')
 

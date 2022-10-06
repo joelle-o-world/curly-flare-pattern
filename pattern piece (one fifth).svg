@@ -6,147 +6,156 @@
 <path d="M52.150438049590576,0 L53.40707511102649,-30 L56.54866776461628,-80 L59.69026041820607,-110 L62.83185307179587,-130 L69.11503837897546,-155 L72.25663103256525,-163 L75.39822368615503,-170 L78.53981633974483,-177 L81.68140899333463,-184 L84.82300164692441,-190 L87.96459430051421,-196 L91.106186954104,-201 L94.2477796076938,-207 L97.3893722612836,-210 L100.53096491487338,-215 L103.67255756846316,-222 L106.81415022205297,-227 L109.95574287564276,-235 L113.09733552923257,-258 L109.95574287564276,-275 L106.81415022205297,-285 L103.67255756846316,-291 L100.53096491487338,-296 L97.3893722612836,-301 L94.2477796076938,-306 L91.106186954104,-311 L87.96459430051421,-315 L84.82300164692441,-320 L81.68140899333463,-325 L78.53981633974483,-330 L75.39822368615503,-335 L72.25663103256525,-341 L69.11503837897546,-348 L65.97344572538566,-356 L62.83185307179587,-365" />
 <circle cx="52.150438049590576" cy="0" r="1" fill="black" />
 <text x="57.150438049590576" y="0" font-size="5" stroke="none" fill="#000000" dy="0em">52mm</text>
-<path d="M0,0 L52.150438049590576,0" stroke-width="0.1" stroke="dashed" />
+<path d="M0,0 L52.150438049590576,0" stroke-width="0.1" />
 <text x="5" y="6" font-size="5" stroke="none" fill="#000000" dy="0em">0mm</text>
 <circle cx="53.40707511102649" cy="-30" r="1" fill="black" />
 <text x="58.40707511102649" y="-30" font-size="5" stroke="none" fill="#000000" dy="0em">53mm</text>
-<path d="M0,-30 L53.40707511102649,-30" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-30 L53.40707511102649,-30" stroke-width="0.1" />
 <text x="5" y="-24" font-size="5" stroke="none" fill="#000000" dy="0em">30mm</text>
 <circle cx="56.54866776461628" cy="-80" r="1" fill="black" />
 <text x="61.54866776461628" y="-80" font-size="5" stroke="none" fill="#000000" dy="0em">57mm</text>
-<path d="M0,-80 L56.54866776461628,-80" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-80 L56.54866776461628,-80" stroke-width="0.1" />
 <text x="5" y="-74" font-size="5" stroke="none" fill="#000000" dy="0em">80mm</text>
 <circle cx="59.69026041820607" cy="-110" r="1" fill="black" />
 <text x="64.69026041820607" y="-110" font-size="5" stroke="none" fill="#000000" dy="0em">60mm</text>
-<path d="M0,-110 L59.69026041820607,-110" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-110 L59.69026041820607,-110" stroke-width="0.1" />
 <text x="5" y="-104" font-size="5" stroke="none" fill="#000000" dy="0em">110mm</text>
 <circle cx="62.83185307179587" cy="-130" r="1" fill="black" />
 <text x="67.83185307179588" y="-130" font-size="5" stroke="none" fill="#000000" dy="0em">63mm</text>
-<path d="M0,-130 L62.83185307179587,-130" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-130 L62.83185307179587,-130" stroke-width="0.1" />
 <text x="5" y="-124" font-size="5" stroke="none" fill="#000000" dy="0em">130mm</text>
 <circle cx="69.11503837897546" cy="-155" r="1" fill="black" />
 <text x="74.11503837897546" y="-155" font-size="5" stroke="none" fill="#000000" dy="0em">69mm</text>
-<path d="M0,-155 L69.11503837897546,-155" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-155 L69.11503837897546,-155" stroke-width="0.1" />
 <text x="5" y="-149" font-size="5" stroke="none" fill="#000000" dy="0em">155mm</text>
 <circle cx="72.25663103256525" cy="-163" r="1" fill="black" />
 <text x="77.25663103256525" y="-163" font-size="5" stroke="none" fill="#000000" dy="0em">72mm</text>
-<path d="M0,-163 L72.25663103256525,-163" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-163 L72.25663103256525,-163" stroke-width="0.1" />
 <text x="5" y="-157" font-size="5" stroke="none" fill="#000000" dy="0em">163mm</text>
 <circle cx="75.39822368615503" cy="-170" r="1" fill="black" />
 <text x="80.39822368615503" y="-170" font-size="5" stroke="none" fill="#000000" dy="0em">75mm</text>
-<path d="M0,-170 L75.39822368615503,-170" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-170 L75.39822368615503,-170" stroke-width="0.1" />
 <text x="5" y="-164" font-size="5" stroke="none" fill="#000000" dy="0em">170mm</text>
 <circle cx="78.53981633974483" cy="-177" r="1" fill="black" />
 <text x="83.53981633974483" y="-177" font-size="5" stroke="none" fill="#000000" dy="0em">79mm</text>
-<path d="M0,-177 L78.53981633974483,-177" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-177 L78.53981633974483,-177" stroke-width="0.1" />
 <text x="5" y="-171" font-size="5" stroke="none" fill="#000000" dy="0em">177mm</text>
 <circle cx="81.68140899333463" cy="-184" r="1" fill="black" />
 <text x="86.68140899333463" y="-184" font-size="5" stroke="none" fill="#000000" dy="0em">82mm</text>
-<path d="M0,-184 L81.68140899333463,-184" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-184 L81.68140899333463,-184" stroke-width="0.1" />
 <text x="5" y="-178" font-size="5" stroke="none" fill="#000000" dy="0em">184mm</text>
 <circle cx="84.82300164692441" cy="-190" r="1" fill="black" />
 <text x="89.82300164692441" y="-190" font-size="5" stroke="none" fill="#000000" dy="0em">85mm</text>
-<path d="M0,-190 L84.82300164692441,-190" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-190 L84.82300164692441,-190" stroke-width="0.1" />
 <text x="5" y="-184" font-size="5" stroke="none" fill="#000000" dy="0em">190mm</text>
 <circle cx="87.96459430051421" cy="-196" r="1" fill="black" />
 <text x="92.96459430051421" y="-196" font-size="5" stroke="none" fill="#000000" dy="0em">88mm</text>
-<path d="M0,-196 L87.96459430051421,-196" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-196 L87.96459430051421,-196" stroke-width="0.1" />
 <text x="5" y="-190" font-size="5" stroke="none" fill="#000000" dy="0em">196mm</text>
 <circle cx="91.106186954104" cy="-201" r="1" fill="black" />
 <text x="96.106186954104" y="-201" font-size="5" stroke="none" fill="#000000" dy="0em">91mm</text>
-<path d="M0,-201 L91.106186954104,-201" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-201 L91.106186954104,-201" stroke-width="0.1" />
 <text x="5" y="-195" font-size="5" stroke="none" fill="#000000" dy="0em">201mm</text>
 <circle cx="94.2477796076938" cy="-207" r="1" fill="black" />
 <text x="99.2477796076938" y="-207" font-size="5" stroke="none" fill="#000000" dy="0em">94mm</text>
-<path d="M0,-207 L94.2477796076938,-207" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-207 L94.2477796076938,-207" stroke-width="0.1" />
 <text x="5" y="-201" font-size="5" stroke="none" fill="#000000" dy="0em">207mm</text>
 <circle cx="97.3893722612836" cy="-210" r="1" fill="black" />
 <text x="102.3893722612836" y="-210" font-size="5" stroke="none" fill="#000000" dy="0em">97mm</text>
-<path d="M0,-210 L97.3893722612836,-210" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-210 L97.3893722612836,-210" stroke-width="0.1" />
 <text x="5" y="-204" font-size="5" stroke="none" fill="#000000" dy="0em">210mm</text>
 <circle cx="100.53096491487338" cy="-215" r="1" fill="black" />
 <text x="105.53096491487338" y="-215" font-size="5" stroke="none" fill="#000000" dy="0em">101mm</text>
-<path d="M0,-215 L100.53096491487338,-215" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-215 L100.53096491487338,-215" stroke-width="0.1" />
 <text x="5" y="-209" font-size="5" stroke="none" fill="#000000" dy="0em">215mm</text>
 <circle cx="103.67255756846316" cy="-222" r="1" fill="black" />
 <text x="108.67255756846316" y="-222" font-size="5" stroke="none" fill="#000000" dy="0em">104mm</text>
-<path d="M0,-222 L103.67255756846316,-222" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-222 L103.67255756846316,-222" stroke-width="0.1" />
 <text x="5" y="-216" font-size="5" stroke="none" fill="#000000" dy="0em">222mm</text>
 <circle cx="106.81415022205297" cy="-227" r="1" fill="black" />
 <text x="111.81415022205297" y="-227" font-size="5" stroke="none" fill="#000000" dy="0em">107mm</text>
-<path d="M0,-227 L106.81415022205297,-227" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-227 L106.81415022205297,-227" stroke-width="0.1" />
 <text x="5" y="-221" font-size="5" stroke="none" fill="#000000" dy="0em">227mm</text>
 <circle cx="109.95574287564276" cy="-235" r="1" fill="black" />
 <text x="114.95574287564276" y="-235" font-size="5" stroke="none" fill="#000000" dy="0em">110mm</text>
-<path d="M0,-235 L109.95574287564276,-235" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-235 L109.95574287564276,-235" stroke-width="0.1" />
 <text x="5" y="-229" font-size="5" stroke="none" fill="#000000" dy="0em">235mm</text>
 <circle cx="113.09733552923257" cy="-258" r="1" fill="black" />
 <text x="118.09733552923257" y="-258" font-size="5" stroke="none" fill="#000000" dy="0em">113mm</text>
-<path d="M0,-258 L113.09733552923257,-258" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-258 L113.09733552923257,-258" stroke-width="0.1" />
 <text x="5" y="-252" font-size="5" stroke="none" fill="#000000" dy="0em">258mm</text>
 <circle cx="109.95574287564276" cy="-275" r="1" fill="black" />
 <text x="114.95574287564276" y="-275" font-size="5" stroke="none" fill="#000000" dy="0em">110mm</text>
-<path d="M0,-275 L109.95574287564276,-275" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-275 L109.95574287564276,-275" stroke-width="0.1" />
 <text x="5" y="-269" font-size="5" stroke="none" fill="#000000" dy="0em">275mm</text>
 <circle cx="106.81415022205297" cy="-285" r="1" fill="black" />
 <text x="111.81415022205297" y="-285" font-size="5" stroke="none" fill="#000000" dy="0em">107mm</text>
-<path d="M0,-285 L106.81415022205297,-285" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-285 L106.81415022205297,-285" stroke-width="0.1" />
 <text x="5" y="-279" font-size="5" stroke="none" fill="#000000" dy="0em">285mm</text>
 <circle cx="103.67255756846316" cy="-291" r="1" fill="black" />
 <text x="108.67255756846316" y="-291" font-size="5" stroke="none" fill="#000000" dy="0em">104mm</text>
-<path d="M0,-291 L103.67255756846316,-291" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-291 L103.67255756846316,-291" stroke-width="0.1" />
 <text x="5" y="-285" font-size="5" stroke="none" fill="#000000" dy="0em">291mm</text>
 <circle cx="100.53096491487338" cy="-296" r="1" fill="black" />
 <text x="105.53096491487338" y="-296" font-size="5" stroke="none" fill="#000000" dy="0em">101mm</text>
-<path d="M0,-296 L100.53096491487338,-296" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-296 L100.53096491487338,-296" stroke-width="0.1" />
 <text x="5" y="-290" font-size="5" stroke="none" fill="#000000" dy="0em">296mm</text>
 <circle cx="97.3893722612836" cy="-301" r="1" fill="black" />
 <text x="102.3893722612836" y="-301" font-size="5" stroke="none" fill="#000000" dy="0em">97mm</text>
-<path d="M0,-301 L97.3893722612836,-301" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-301 L97.3893722612836,-301" stroke-width="0.1" />
 <text x="5" y="-295" font-size="5" stroke="none" fill="#000000" dy="0em">301mm</text>
 <circle cx="94.2477796076938" cy="-306" r="1" fill="black" />
 <text x="99.2477796076938" y="-306" font-size="5" stroke="none" fill="#000000" dy="0em">94mm</text>
-<path d="M0,-306 L94.2477796076938,-306" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-306 L94.2477796076938,-306" stroke-width="0.1" />
 <text x="5" y="-300" font-size="5" stroke="none" fill="#000000" dy="0em">306mm</text>
 <circle cx="91.106186954104" cy="-311" r="1" fill="black" />
 <text x="96.106186954104" y="-311" font-size="5" stroke="none" fill="#000000" dy="0em">91mm</text>
-<path d="M0,-311 L91.106186954104,-311" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-311 L91.106186954104,-311" stroke-width="0.1" />
 <text x="5" y="-305" font-size="5" stroke="none" fill="#000000" dy="0em">311mm</text>
 <circle cx="87.96459430051421" cy="-315" r="1" fill="black" />
 <text x="92.96459430051421" y="-315" font-size="5" stroke="none" fill="#000000" dy="0em">88mm</text>
-<path d="M0,-315 L87.96459430051421,-315" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-315 L87.96459430051421,-315" stroke-width="0.1" />
 <text x="5" y="-309" font-size="5" stroke="none" fill="#000000" dy="0em">315mm</text>
 <circle cx="84.82300164692441" cy="-320" r="1" fill="black" />
 <text x="89.82300164692441" y="-320" font-size="5" stroke="none" fill="#000000" dy="0em">85mm</text>
-<path d="M0,-320 L84.82300164692441,-320" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-320 L84.82300164692441,-320" stroke-width="0.1" />
 <text x="5" y="-314" font-size="5" stroke="none" fill="#000000" dy="0em">320mm</text>
 <circle cx="81.68140899333463" cy="-325" r="1" fill="black" />
 <text x="86.68140899333463" y="-325" font-size="5" stroke="none" fill="#000000" dy="0em">82mm</text>
-<path d="M0,-325 L81.68140899333463,-325" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-325 L81.68140899333463,-325" stroke-width="0.1" />
 <text x="5" y="-319" font-size="5" stroke="none" fill="#000000" dy="0em">325mm</text>
 <circle cx="78.53981633974483" cy="-330" r="1" fill="black" />
 <text x="83.53981633974483" y="-330" font-size="5" stroke="none" fill="#000000" dy="0em">79mm</text>
-<path d="M0,-330 L78.53981633974483,-330" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-330 L78.53981633974483,-330" stroke-width="0.1" />
 <text x="5" y="-324" font-size="5" stroke="none" fill="#000000" dy="0em">330mm</text>
 <circle cx="75.39822368615503" cy="-335" r="1" fill="black" />
 <text x="80.39822368615503" y="-335" font-size="5" stroke="none" fill="#000000" dy="0em">75mm</text>
-<path d="M0,-335 L75.39822368615503,-335" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-335 L75.39822368615503,-335" stroke-width="0.1" />
 <text x="5" y="-329" font-size="5" stroke="none" fill="#000000" dy="0em">335mm</text>
 <circle cx="72.25663103256525" cy="-341" r="1" fill="black" />
 <text x="77.25663103256525" y="-341" font-size="5" stroke="none" fill="#000000" dy="0em">72mm</text>
-<path d="M0,-341 L72.25663103256525,-341" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-341 L72.25663103256525,-341" stroke-width="0.1" />
 <text x="5" y="-335" font-size="5" stroke="none" fill="#000000" dy="0em">341mm</text>
 <circle cx="69.11503837897546" cy="-348" r="1" fill="black" />
 <text x="74.11503837897546" y="-348" font-size="5" stroke="none" fill="#000000" dy="0em">69mm</text>
-<path d="M0,-348 L69.11503837897546,-348" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-348 L69.11503837897546,-348" stroke-width="0.1" />
 <text x="5" y="-342" font-size="5" stroke="none" fill="#000000" dy="0em">348mm</text>
 <circle cx="65.97344572538566" cy="-356" r="1" fill="black" />
 <text x="70.97344572538566" y="-356" font-size="5" stroke="none" fill="#000000" dy="0em">66mm</text>
-<path d="M0,-356 L65.97344572538566,-356" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-356 L65.97344572538566,-356" stroke-width="0.1" />
 <text x="5" y="-350" font-size="5" stroke="none" fill="#000000" dy="0em">356mm</text>
 <circle cx="62.83185307179587" cy="-365" r="1" fill="black" />
 <text x="67.83185307179588" y="-365" font-size="5" stroke="none" fill="#000000" dy="0em">63mm</text>
-<path d="M0,-365 L62.83185307179587,-365" stroke-width="0.1" stroke="dashed" />
+<path d="M0,-365 L62.83185307179587,-365" stroke-width="0.1" />
 <text x="5" y="-359" font-size="5" stroke="none" fill="#000000" dy="0em">365mm</text>
 <path d="M52.150438049590576,0 L0,0 L0,-365 L62.83185307179587,-365" stroke="black" />
+<g>
+<path d="M200,0 L200,-300" />
+<path d="M200,0 L203.0,-0.0" />
+<text x="205.0" y="-0.0" font-size="5" stroke="none" fill="black" dy="0em">0mm</text>
+<path d="M200.0,-100.0 L203.0,-100.0" />
+<text x="205.0" y="-100.0" font-size="5" stroke="none" fill="black" dy="0em">100mm</text>
+<path d="M200.0,-200.0 L203.0,-200.0" />
+<text x="205.0" y="-200.0" font-size="5" stroke="none" fill="black" dy="0em">200mm</text>
+</g>
 </svg>
